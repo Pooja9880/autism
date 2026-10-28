@@ -1,0 +1,1 @@
+This project explores the use of robots to support children with Autism Spectrum Disorder (ASD) in learning and developing social and communication skills. Robots provide predictable, consistent, and interactive responses, creating a comfortable and engaging learning environment.
